@@ -8,10 +8,6 @@
 
 - Fork/Pull
 
-```bash
-$ gulp watch
-```
-
 ## Built With
 
 - Laravel 5.4
